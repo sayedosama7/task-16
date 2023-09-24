@@ -1,0 +1,27 @@
+/* start global  */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+}
+a {
+    text-decoration: none;
+}
+:root {
+    --main-color : ;
+    --bg-color : ;
+    --transition : ;
+}
+
+/* End global  */
+
+/* #warning {
+    color: rgb(255, 255, 255);
+    background-color: red;
+    text-align: center;
+    transition: all .5s ease;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+} */
